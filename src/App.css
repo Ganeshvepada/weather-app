@@ -1,0 +1,30 @@
+/* Basic styling for the app */
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-color: tomato;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+ 
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-color: tomato;
+}
+
+th {
+  background-color: #f1f1f1;
+}
