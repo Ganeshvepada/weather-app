@@ -1,6 +1,6 @@
 import React from 'react';
 import WeatherForecast from './WeatherForecast';
-import './App.css'; // Import your CSS file for styling
+import './App.css';
 
 const App = () => {
   return (
